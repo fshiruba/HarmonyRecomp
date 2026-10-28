@@ -1,0 +1,14 @@
+  sdk: 1159 files
+  src: 54 tracked files (without images)
+  python: embeddable distribution
+wrote dist\harmonyrecomp-package.zip (23 MB)
+  llvm: clang, clang++, clang-cl, lld-link, llvm-rc, llvm-ar, llvm-lib, llvm-ranlib, llvm-mt, llvm-nm, llvm-objcopy
+  llvm/lib/clang: 310 files
+  cmake: 8018 files
+wrote dist\harmonyrecomp-toolchain.zip (208 MB)
+total 237716
+drwxr-xr-x 1 runneradmin 197121         0 Oct 28 01:02 .
+drwxr-xr-x 1 runneradmin 197121         0 Oct 28 01:01 ..
+-rwxr-xr-x 1 runneradmin 197121     47616 Oct 28 01:02 HarmonyRecomp-Setup.exe
+-rw-r--r-- 1 runneradmin 197121  24647014 Oct 28 01:01 harmonyrecomp-package.zip
+-rw-r--r-- 1 runneradmin 197121 218718198 Oct 28 01:02 harmonyrecomp-toolchain.zip
